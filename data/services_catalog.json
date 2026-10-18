@@ -1,0 +1,20 @@
+[
+ {"name":"Web Design & Development","min_budget_inr":40000,"timeline_weeks":"4-8",
+  "keywords":["website","web","landing","ecommerce","booking","redesign","wordpress","shopify","portal","store","payment"],
+  "deliverables":["Responsive site","CMS setup","Payment/booking integration","Performance + SEO baseline"]},
+ {"name":"SEO & Digital Marketing","min_budget_inr":15000,"timeline_weeks":"ongoing (monthly)",
+  "keywords":["seo","organic","traffic","keyword","optimisation","optimization","rank","backlink","audit","google","visibility"],
+  "deliverables":["Technical SEO audit","Keyword plan","On-page fixes","Monthly reporting"]},
+ {"name":"UX/UI Design","min_budget_inr":30000,"timeline_weeks":"2-5",
+  "keywords":["ux","ui","wireframe","prototype","figma","onboarding","flow","usability","interface"],
+  "deliverables":["User flows","Wireframes","Clickable prototype","Design system"]},
+ {"name":"Custom Software Development","min_budget_inr":150000,"timeline_weeks":"8-24",
+  "keywords":["erp","crm","saas","mvp","custom","software","inventory","invoicing","tracking","react","node","backend","app","mobile","platform"],
+  "deliverables":["Requirements spec","Architecture","Iterative builds","QA + deployment"]},
+ {"name":"AI Automation","min_budget_inr":100000,"timeline_weeks":"3-10",
+  "keywords":["ai","chatbot","automate","automation","ocr","llm","gpt","agent","ticket","routing","nlp","pdf","ml"],
+  "deliverables":["Workflow audit","LLM/RAG pipeline","Integrations","Monitoring + evals"]},
+ {"name":"BitElevate Training","min_budget_inr":10000,"timeline_weeks":"4-12",
+  "keywords":["training","course","student","batch","enrol","bootcamp","internship","program","bitelevate","college","workshop"],
+  "deliverables":["Curriculum","Live sessions","Projects","Certification"]}
+]

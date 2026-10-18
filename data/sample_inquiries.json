@@ -1,0 +1,14 @@
+[
+ {"id":1,"text":"We run a boutique hotel in Udaipur and need a new booking website with online payments. Budget around ₹1.5 lakh, want to launch before Diwali, urgent.","service":"Web Design & Development","urgency":"high","band":"Hot","budget_inr":150000},
+ {"id":2,"text":"Our Shopify store gets almost no organic traffic. Looking for monthly SEO and keyword optimisation, around 8k per month.","service":"SEO & Digital Marketing","urgency":"low","band":"Warm","budget_inr":8000},
+ {"id":3,"text":"Need a UX redesign of our fintech onboarding flow. Wireframes and a Figma prototype. No fixed budget yet.","service":"UX/UI Design","urgency":"low","band":"Warm","budget_inr":null},
+ {"id":4,"text":"We want an AI chatbot that answers customer queries from our PDFs and automates ticket routing. ASAP. Budget 3 lakh.","service":"AI Automation","urgency":"high","band":"Hot","budget_inr":300000},
+ {"id":5,"text":"Looking to enrol 5 college students in a full stack web development training program. Any batches starting this month?","service":"BitElevate Training","urgency":"medium","band":"Warm","budget_inr":null},
+ {"id":6,"text":"Can you build a custom ERP for our logistics company with inventory, invoicing and driver tracking? Budget 8 lakh, timeline 4 months.","service":"Custom Software Development","urgency":"medium","band":"Hot","budget_inr":800000},
+ {"id":7,"text":"Hi, just exploring. How much do you charge?","service":"Unclear","urgency":"low","band":"Cold","budget_inr":null},
+ {"id":8,"text":"Redesign our corporate website, it looks old. Budget 10k only.","service":"Web Design & Development","urgency":"low","band":"Cold","budget_inr":10000},
+ {"id":9,"text":"Automate our invoice processing with OCR and push the data to Tally. Within 2 weeks, budget ₹1.2 lakh.","service":"AI Automation","urgency":"high","band":"Hot","budget_inr":120000},
+ {"id":10,"text":"Need an SEO audit and backlinks for our clinic website in Jaipur, urgent, we are losing patients to competitors. Budget 25k per month.","service":"SEO & Digital Marketing","urgency":"high","band":"Hot","budget_inr":25000},
+ {"id":11,"text":"We are a startup building a SaaS CRM and need a team for an MVP with React and Node. $5k budget, 2 months.","service":"Custom Software Development","urgency":"medium","band":"Hot","budget_inr":425000},
+ {"id":12,"text":"Looking for a free logo for my cousin's shop.","service":"Unclear","urgency":"low","band":"Cold","budget_inr":null}
+]
