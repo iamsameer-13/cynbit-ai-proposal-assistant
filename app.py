@@ -26,8 +26,14 @@ if st.button("Analyze", type="primary") and text.strip():
     st.write(f"**Budget (INR):** {a['budget_inr']:,}" if a.get("budget_inr") else "**Budget:** not stated")
     st.caption(f"Score breakdown: {a['score_parts']}  |  Extractor: {a['source']}")
     l, r = st.columns(2)
-    l.subheader("Requirements"); [l.write(f"- {x}") for x in a.get("requirements", [])]
-    r.subheader("Risks"); [r.write(f"- {x}") for x in a.get("risks", [])]
-    st.subheader("Clarifying questions"); [st.write(f"- {x}") for x in a.get("clarifying_questions", [])]
+    l.subheader("Requirements")
+    for x in a.get("requirements", []):
+        l.write(f"- {x}")
+    r.subheader("Risks")
+    for x in a.get("risks", []):
+        r.write(f"- {x}")
+    st.subheader("Clarifying questions")
+    for x in a.get("clarifying_questions", []):
+        st.write(f"- {x}")
     st.divider(); st.markdown(a["proposal"])
     st.download_button("Download proposal (.md)", a["proposal"], "proposal.md")
